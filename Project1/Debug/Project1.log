@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(Project1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  pacman.cpp
+D:\CC++\pac-man\Project1\pacman.cpp(145,16): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+D:\CC++\pac-man\Project1\pacman.cpp(145,19): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+D:\CC++\pac-man\Project1\pacman.cpp(1322,9): warning C4101: “i”: 未引用的局部变量
+D:\CC++\pac-man\Project1\pacman.cpp(1322,6): warning C4101: “g”: 未引用的局部变量
+D:\CC++\pac-man\Project1\pacman.cpp(424): warning C4715: “IsDeathBullet”: 不是所有的控件路径都返回值
+  Project1.vcxproj -> D:\CC++\pac-man\Debug\pacman.exe
